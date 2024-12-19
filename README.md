@@ -11,7 +11,6 @@ Currently, two official plugins are available:
 # Quiz App using react
 
 here are the screenshots of this,
-![Screenshot 2024-12-19 214029](https://github.com/user-attachments/assets/a7a0d8f6-7959-4198-8b9b-02723950c46d)
 ![Screenshot 2024-12-19 214806](https://github.com/user-attachments/assets/cf2bf3ad-7d63-4506-bf73-b2c86cc5cf3e)
 ![Screenshot 2024-12-19 214054](https://github.com/user-attachments/assets/57723e9f-fbca-4b67-98b8-df754cf282c9)
 ![Screenshot 2024-12-19 214327](https://github.com/user-attachments/assets/6f14656c-03a2-4598-ad52-c04472d02c2f)
